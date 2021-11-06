@@ -1,4 +1,4 @@
-import is_leap_year 
+import main 
 
 
 def test_is_leap_year_not_zero() -> None:
