@@ -1,5 +1,5 @@
+import is_leap_year 
 
-from is_leap_year import is_leap_year
 
 def test_is_leap_year_not_zero() -> None:
     """There is no year 0, it starts on 1, so year 0 is False"""
